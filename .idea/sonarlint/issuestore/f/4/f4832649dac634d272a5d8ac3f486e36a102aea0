@@ -1,0 +1,6 @@
+
+[kotlin:S6619q"<Remove this useless null-safe access ?., it always succeeds.(ƒˆÖô8¬ËÖ‰¹2
+=kotlin:S125"Remove this commented out code.(ı¯Ï¯8êçÄ‰¹2
+=kotlin:S125""Remove this commented out code.(Øä¸‘8ëçÄ‰¹2
+`kotlin:S6510L"AMove "return" statements from all branches before "if" statement.(Ã´…Š8öçÄ‰¹2
+\kotlin:S6511>"=Merge chained "if" statements into a single "when" statement.(“¬È™8÷çÄ‰¹2

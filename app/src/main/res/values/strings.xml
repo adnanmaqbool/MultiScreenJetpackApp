@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ComposeSample</string>
+    <string name="login">Login</string>
+    <string name="welcome">WELCOME BACK</string>
+    <string name="sign_in_details">Sign in details</string>
+    <string name="phone_no_email_id">eve.holt@reqres.in</string>
+    <string name="password">pistol</string>
+    <string name="remember_me">Remember me</string>
+    <string name="no_order_found">No order found</string>
+    <string name="camera_permission_required">Press the button below to allow the camera permission</string>
+    <string name="in_progress">In progress</string>
+    <string name="accept_permission">Accept permission</string>
+    <string name="allow">Allow</string>
+</resources>
